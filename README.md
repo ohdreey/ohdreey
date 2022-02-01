@@ -1,9 +1,9 @@
-### Bonjour, Je suis Audrey VALLIÉ 👋
+
 <header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></header>
 
 <div align="center">
  <h1>
- Bienvenue ! 
+ Bienvenue ! Je suis Audrey VALLIÉ
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
