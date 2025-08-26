@@ -17,6 +17,8 @@
 
 ## 👩‍💻 Qui suis-je ?
 Je suis **Front-End Developer** chez *Veepee Ad Connect* (Paris).  
+Voici quelques campagnes réalisées dans le cadre de mes missions 
+<a href="https://www.canva.com/design/DAGxMBZ_Jt8/dKwS9E9eNSFd8zCtt1fU1w/edit?utm_content=DAGxMBZ_Jt8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
 
 ---
 
