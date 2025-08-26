@@ -49,7 +49,7 @@ Voici quelques campagnes réalisées dans le cadre de mes missions :
 ---
 
 ## ⚡ Projets à voir
-- 🔥 [Projet 1](lien) — Site marchand *Anashi* (Vue3 + Figma)  
+- 🔥 [Projet 1](https://github.com/ohdreey/AnashiV1) — Site marchand *Anashi* (Vue3 + Figma)  
 
 ---
 
