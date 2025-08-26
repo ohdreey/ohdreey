@@ -46,7 +46,6 @@ Je suis **Front-End Developer** chez *Veepee Ad Connect* (Paris).
 
 ## ⚡ Projets à voir
 - 🔥 [Projet 1](lien) — Site marchand *Anashi* (Vue3 + Figma)  
-- 🎮 [Projet 2](lien) — Création d’un **Pokédex** sur Vue3.js  
 
 ---
 
