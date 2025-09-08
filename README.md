@@ -37,7 +37,9 @@ Voici quelques campagnes réalisées dans le cadre de mes missions :
 ---
 
 ## 🚀 Projet en cours
-- Développement d’un **site e-commerce** avec **Vue 3** 🛍️  
+- Développement d’un **site e-commerce** avec **Vue 3 & Template Figma** 🛍️ (https://github.com/ohdreey/AnashiV1)  
+- Carousel d'images avec **Vue 3 ** 🖼️ https://github.com/ohdreey/Carousel
+- Todo List avec **Vue 3, Template Figma & Node ** ✅ https://github.com/ohdreey/TodoList
 
 ---
 
@@ -49,7 +51,7 @@ Voici quelques campagnes réalisées dans le cadre de mes missions :
 ---
 
 ## ⚡ Projets à voir
-- 🔥 [Projet 1](https://github.com/ohdreey/AnashiV1) — Site marchand *Anashi* (Vue3 + Figma)  
+- 🔥 [Projet 1]
 
 ---
 
