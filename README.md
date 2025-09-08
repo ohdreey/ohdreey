@@ -50,10 +50,6 @@ Voici quelques campagnes réalisées dans le cadre de mes missions :
 
 ---
 
-## ⚡ Projets à voir
-- 🔥 [Projet 1]
-
----
 
 ## 📫 Me contacter
 [![Linkedin Badge](https://img.shields.io/badge/-Audrey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-valli%C3%A9-26a65118b/)
